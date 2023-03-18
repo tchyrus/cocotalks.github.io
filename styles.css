@@ -146,6 +146,7 @@ html,body{
 .aboutText h1{
     position: relative;
     left: 270px;
+    bottom: 60px;
 }
 
 .aboutText img{
