@@ -146,7 +146,7 @@ html,body{
 .aboutText h1{
     position: relative;
     left: 270px;
-    bottom: 60px;
+    bottom: 40px;
 }
 
 .aboutText img{
@@ -157,6 +157,8 @@ html,body{
 
 .aboutList{
     width: 50%;
+    text-align: justify;
+   
 }
 
 
